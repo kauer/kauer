@@ -12,7 +12,7 @@ Brazilian energy sector at IFSC/FEESC.
 
 [LinkedIn](https://linkedin.com/in/kauesrocha) ·
 [Email](mailto:kauedossantosrocha@gmail.com) ·
-[Resume](https://kauer.github.io/resume.pdf)
+[Resume](https://kauer.github.io/kauer/resume.pdf)
 
 ---
 
